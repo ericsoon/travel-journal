@@ -29,8 +29,8 @@ ex: src / href={`${props.map}`}
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="https://github.com/imhalid/travel-journal/blob/master/Screenshots/task.png?raw=true" alt="My Work"></td>
-    <td class="tg-0lax"><img src="https://github.com/imhalid/travel-journal/blob/master/Screenshots/result.png?raw=true" alt="My Work"></td>
+    <td class="tg-0lax"><img src="https://github.com/ericsoon/travel-journal/blob/master/Screenshots/task.png?raw=true" alt="My Work"></td>
+    <td class="tg-0lax"><img src="https://github.com/ericsoon/travel-journal/blob/master/Screenshots/result.png?raw=true" alt="My Work"></td>
   </tr>
 </tbody>
 </table>
