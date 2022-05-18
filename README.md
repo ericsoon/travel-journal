@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Preview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://travel-journal-sandy.vercel.app/
 
 ## Available Scripts
 
